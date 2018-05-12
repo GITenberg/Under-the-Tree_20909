@@ -1,0 +1,31 @@
+_repo: Under-the-Tree_20909
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Elizabeth Madox
+    birthdate: 1881
+    deathdate: 1941
+    gutenberg_agent_id: '9599'
+    url: http://www.gutenberg.org/2009/agents/9599
+description: This well-received 1922 collection of poems launched Roberts's literary
+  career. Many of the poems charmingly recreate the world of childhood in much the
+  manner of Robert Louis Stevenson's A child's garden of verses . Poems include, Mumps,"
+  "Milking time," "Big brother," and "The pulpit."
+gutenberg_issued: '2007-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20909'
+  lccn: '23000811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+- !lcsh 'Children''s poetry, American'
+title: Under the Tree
+url: http://www.gutenberg.org/ebooks/20909
